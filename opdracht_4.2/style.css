@@ -1,0 +1,52 @@
+h1 {
+    color: blue;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+h2 {
+    color:  #0000ff;
+    font-size: 20px;
+    font-style: bold;
+}
+
+h3 {
+    color: Teal;
+    font-size: 16px;
+    font-style: bold;
+}
+
+
+p {
+    color: #4D4D4D  ;
+} 
+
+a {
+    color: #8A2BE2;
+}
+
+header {
+    width: 100%;
+    background-image: url(img/bk.png);
+}
+
+.header2 {
+    color: white;
+}
+
+img {
+    width: 50%;
+}
+
+article {
+    border-style: inset;
+    border-color: aqua;
+    border-radius: 10px;
+    padding: 5px;
+    border-left-width: 10px;
+}
